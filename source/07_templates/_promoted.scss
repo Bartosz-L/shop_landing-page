@@ -60,18 +60,18 @@
     font-weight: bold;
     line-height: $line-height-sm;
 
-    &-size1 {
+    &--size1 {
       display: block;
       font-size: $font-size-2;
       margin-bottom: $grid-base * 3;
     }
 
-    &-size2 {
+    &--size2 {
       display: block;
       font-size: $font-size-3;
     }
 
-    &-size3 {
+    &--size3 {
       font-size: $font-size-3;
     }
   }
