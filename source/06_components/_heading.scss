@@ -1,11 +1,11 @@
 .c-heading {
   color: $gray-very-dark;
   line-height: $line-height-sm;
-  letter-spacing: $letter-spacing-condensed;
   margin-bottom: $grid-base / 2;
 
   &--level1 {
     font-size: $font-size-2;
+    letter-spacing: $letter-spacing-condensed;
 
     @include large-up {
       font-size: $font-size-1;
